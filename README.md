@@ -6,3 +6,5 @@ A Simple Browser developed using C#
 <br>
 <br>
 This software is made using <b>Visual Studio</b> and <b>C#</b> Language ! This is very Simple and easy to use :)
+
+#Thank You
