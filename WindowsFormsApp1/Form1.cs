@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            wb1.Navigate("https://www.google.com");
+            wb1.Navigate("https://www.facebook.com");
         }
 
         private void btnGo_Click(object sender, EventArgs e)
