@@ -5,4 +5,4 @@ A Simple Browser developed using C#
 <img src="https://raw.githubusercontent.com/asubodh/GoBrowser/master/screenshoot.png">
 <br>
 <br>
-This software is made using <b>Visual Studio</b> and <b>C#</b> Language ! This is very Simple and easy to use :)
+This software is made using <b>Visual Studio</b> and <b>C#</b> Language ! This is very Simple and easy to use and easy interface with some bugs to fixed later :)
